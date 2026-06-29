@@ -132,8 +132,6 @@ Let's connect! I'm always interested in discussing projects, learning opportunit
 
 - 📧 **Email:** [lenardvincentang@gmail.com](mailto:lenardvincentang@gmail.com)
 - 🔗 **GitHub:** [@userVincentAng](https://github.com/userVincentAng)
-- 💼 **LinkedIn:** (Coming soon)
-- 🐦 **Twitter:** (Coming soon)
 
 ---
 
