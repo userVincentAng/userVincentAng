@@ -6,7 +6,7 @@
 
 ## 🎯 About Me
 
-I'm a junior full-stack developer passionate about building intuitive, scalable applications across multiple platforms. With hands-on experience in both mobile and web development, I specialize in creating seamless user experiences using modern technologies like Flutter and React.
+I'm a junior full-stack developer passionate about building intuitive, scalable applications across multiple platforms. With hands-on experience in both mobile and web development, I specialize in creating seamless user experiences using modern technologies like Flutter and React. I also have enterprise development experience with C# and .NET WinForms.
 
 **Currently exploring:** Advanced state management, cloud architecture, and best practices in software engineering.
 
@@ -25,6 +25,7 @@ I'm a junior full-stack developer passionate about building intuitive, scalable 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dot-net&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -32,6 +33,9 @@ I'm a junior full-stack developer passionate about building intuitive, scalable 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
@@ -74,11 +78,12 @@ I'm a junior full-stack developer passionate about building intuitive, scalable 
 ### 4. 🎓 [New-System](https://github.com/Conchi16/New-System)
 **College Project - Enterprise System**
 - Educational project developed during college coursework
-- Built with **C#** for backend development and Windows desktop applications
+- Built with **C# .NET WinForms** for Windows desktop applications
 - Demonstrates understanding of OOP principles and enterprise architecture
+- Database management with SQL Server and SSMS
 - Showcases academic foundation in software engineering
 
-**Tech Stack:** C#, ASP.NET, SQL Server
+**Tech Stack:** C#, .NET WinForms, SQL Server, SSMS
 
 ---
 
@@ -88,6 +93,8 @@ I'm a junior full-stack developer passionate about building intuitive, scalable 
 - ✅ Cross-platform mobile solutions with Flutter
 - ✅ Modern responsive web interfaces with React
 - ✅ Enterprise applications with C# and ASP.NET
+- ✅ Desktop applications with .NET WinForms
+- ✅ Secure database solutions with SQL Server & SSMS
 - ✅ Secure authentication & authorization systems
 - ✅ RESTful APIs and microservices
 - ✅ Cloud-integrated backend solutions
@@ -104,13 +111,14 @@ Currently focusing on:
 - 🧪 Comprehensive testing (unit, integration, E2E)
 - 🎨 UI/UX principles and responsive design
 - 💼 Enterprise development with ASP.NET Core
+- 🗄️ Advanced database design and optimization with SQL Server
 
 ---
 
 ## 🎯 Job Hunt Goals
 
 I'm actively seeking:
-- 💼 **Junior Developer Positions** (Full-Stack, Frontend, Backend, or Mobile)
+- 💼 **Junior Developer Positions** (Full-Stack, Frontend, Backend, Mobile, or Desktop)
 - 🎓 **Internship Opportunities**
 - 📚 **Mentorship & Learning Roles**
 
@@ -145,8 +153,8 @@ I believe in continuous learning and contributing to the developer community. Op
 |---------|------|-----------|--------|
 | Food Ordering App | Mobile/Web | Flutter, Cross-platform, Firebase, APIs | ✅ Active |
 | BANANAROBOFLOW | AI/ML | Python, Data Processing, Computer Vision | ✅ Public |
-| MSTsung Office | Full-Stack | React, Node.js, TypeScript, Supabase, Security | ✅ Deployed |
-| New-System | Enterprise | C#, ASP.NET, OOP, SQL Server | ✅ Educational |
+| MSTsung Office | Full-Stack | React, Node.js, TypeScript, Supabase, PostgreSQL | ✅ Deployed |
+| New-System | Enterprise/Desktop | C#, .NET WinForms, SQL Server, SSMS, OOP | ✅ Educational |
 
 ---
 
