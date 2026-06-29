@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lenard Vincent Ang
 
-**Junior Full-Stack Developer** | Flutter • React • Node.js | Cross-platform & Web Development
+**Junior Full-Stack Developer** | Flutter • React • Node.js • C# | Cross-platform & Web Development
 
 ---
 
@@ -15,6 +15,7 @@ I'm a junior full-stack developer passionate about building intuitive, scalable 
 ## 💻 Tech Stack
 
 ### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -30,6 +31,7 @@ I'm a junior full-stack developer passionate about building intuitive, scalable 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white)
 
 ---
 
@@ -69,11 +71,23 @@ I'm a junior full-stack developer passionate about building intuitive, scalable 
 
 ---
 
+### 4. 🎓 [New-System](https://github.com/Conchi16/New-System)
+**College Project - Enterprise System**
+- Educational project developed during college coursework
+- Built with **C#** for backend development and Windows desktop applications
+- Demonstrates understanding of OOP principles and enterprise architecture
+- Showcases academic foundation in software engineering
+
+**Tech Stack:** C#, ASP.NET, SQL Server
+
+---
+
 ## 📊 What I'm Building
 
 - ✅ Scalable full-stack applications
 - ✅ Cross-platform mobile solutions with Flutter
 - ✅ Modern responsive web interfaces with React
+- ✅ Enterprise applications with C# and ASP.NET
 - ✅ Secure authentication & authorization systems
 - ✅ RESTful APIs and microservices
 - ✅ Cloud-integrated backend solutions
@@ -89,13 +103,14 @@ Currently focusing on:
 - 📱 Performance optimization and mobile best practices
 - 🧪 Comprehensive testing (unit, integration, E2E)
 - 🎨 UI/UX principles and responsive design
+- 💼 Enterprise development with ASP.NET Core
 
 ---
 
 ## 🎯 Job Hunt Goals
 
 I'm actively seeking:
-- 💼 **Junior Developer Positions** (Full-Stack, Frontend, or Backend)
+- 💼 **Junior Developer Positions** (Full-Stack, Frontend, Backend, or Mobile)
 - 🎓 **Internship Opportunities**
 - 📚 **Mentorship & Learning Roles**
 
@@ -109,6 +124,8 @@ Let's connect! I'm always interested in discussing projects, learning opportunit
 
 - 📧 **Email:** [lenardvincentang@gmail.com](mailto:lenardvincentang@gmail.com)
 - 🔗 **GitHub:** [@userVincentAng](https://github.com/userVincentAng)
+- 💼 **LinkedIn:** (Coming soon)
+- 🐦 **Twitter:** (Coming soon)
 
 ---
 
@@ -129,6 +146,7 @@ I believe in continuous learning and contributing to the developer community. Op
 | Food Ordering App | Mobile/Web | Flutter, Cross-platform, Firebase, APIs | ✅ Active |
 | BANANAROBOFLOW | AI/ML | Python, Data Processing, Computer Vision | ✅ Public |
 | MSTsung Office | Full-Stack | React, Node.js, TypeScript, Supabase, Security | ✅ Deployed |
+| New-System | Enterprise | C#, ASP.NET, OOP, SQL Server | ✅ Educational |
 
 ---
 
